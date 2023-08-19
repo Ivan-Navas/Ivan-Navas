@@ -13,6 +13,6 @@ const Me = {
   <img width=40px src="https://res.cloudinary.com/ivannavas/image/upload/v1692454258/portafolio/linkedin_mookjy.png" alt='linkedin' />
 <a/>
 <a href='https://www.linkedin.com/in/ivan-navas-0990021a6/' target='_blank' title='Portafolio'>
-  <img width=40px src="https://res.cloudinary.com/ivannavas/image/upload/v1692454623/portafolio/myCharacter_eqf1da.jpg" alt='Portafolio' />
+  <img width=40px src="https://res.cloudinary.com/ivannavas/image/upload/v1692454983/portafolio/portafolio1_swsrpe.webp" alt='Portafolio' />
 <a/>
 
