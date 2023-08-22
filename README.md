@@ -1,10 +1,9 @@
-### Iván Ramiro Navas Gerrero 
+### Hola, soy Iván Navas👋
 
 ```javascript 
-const Me = {
+const ivan = {
   name: "Iván Ramiro Navas Gerrero",
-  aboutMe: "Front-end Developer",
-  technologies: "HTML, CSS, JavaScript, TypeScript, React, SQL, MongoDB, Git",
+  code: [HTML, CSS, JavaScript, TypeScript, React, SQL, MongoDB, Git],
   email: "ivanrng.work@gmail.com",  
   }
 ```
@@ -16,3 +15,4 @@ const Me = {
   <img width=40px src="https://res.cloudinary.com/ivannavas/image/upload/v1692454983/portafolio/portafolio1_swsrpe.webp" alt='Portafolio' />
 <a/>
 
+- 🌱 Actualmente estoy aprendiendo Php y Python
