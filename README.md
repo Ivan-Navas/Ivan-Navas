@@ -1,9 +1,9 @@
 ### Hola, soy Iván Navas👋
 
-```javascript 
-const ivan = {
+```typescript 
+const ivan: Developer = {
   name: "Iván Ramiro Navas Gerrero",
-  code: [HTML, CSS, JavaScript, TypeScript, React, SQL, MongoDB, Git],
+  code: [HTML, CSS, JavaScript, TypeScript, React, NextJs, TailWind, SQL, MongoDB, Git],
   email: "ivanrng.work@gmail.com",  
   }
 ```
