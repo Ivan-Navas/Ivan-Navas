@@ -11,7 +11,7 @@ const ivan: Developer = {
 <a href='https://www.linkedin.com/in/ivan-navas-0990021a6/' target="_blank" title='LinkedIn'>
   <img width=40px src="https://res.cloudinary.com/ivannavas/image/upload/v1692454258/portafolio/linkedin_mookjy.png" alt='linkedin' />
 <a/>
-<a href='https://main--glowing-croissant-4aedaa.netlify.app' target="_blank" title='Portafolio'>
+<a href='https://portafolio-ten-bay-23.vercel.app/' target="_blank" title='Portafolio'>
   <img width=40px src="https://res.cloudinary.com/ivannavas/image/upload/v1692454983/portafolio/portafolio1_swsrpe.webp" alt='Portafolio' />
 <a/>
 
